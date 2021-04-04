@@ -118,7 +118,7 @@ ii) Top ending Locations: As shown in the visualization,
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%202-Story%202.PNG" width="600" height="400"  />
 
 
 
