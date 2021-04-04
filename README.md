@@ -103,7 +103,7 @@ i) Top Starting Locations: As shown in the visualization,
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Garph%201-%20Story%202.PNG" width="600" height="400"  />
 
 
 
