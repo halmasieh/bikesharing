@@ -193,7 +193,7 @@ the trip duration corresponding to each Bikeid are marked with dynamic symbols.
 ## Summary
 In fact, we want to use Tableau to create effective visualizations from the Citi Bike data, therefore the key to getting a good visualization—and, really, any good data analysis—is to start with a question. But what is the right question to ask and how do we portray the answer accurately?
 
-Therefore, we need to think critically about which questions are the most important for our analysis. Our opinion can be swayed based on how the data is represented, so we need to consider how our audience will perceive and interpret the results and visualization that we show them.
+However, we need to think critically about which questions are the most important for our analysis. Our opinion can be swayed based on how the data is represented, so we need to consider how our audience will perceive and interpret the results and visualization that we show them.
 
 After identifying the needs and determining the data capacity, we performed the visualization as below, using New York city-bike-sharing data set:
 
@@ -206,7 +206,7 @@ After identifying the needs and determining the data capacity, we performed the 
 
 We suggest additional visualizations for future analysis as follows:
 
-1- Maximum or Minimum Tripduration: Basically, we can visualize the maximum or minimum of trip duration based on the birth year of the candidates. 
+1- **Maximum or Minimum Tripduration**: Basically, we can visualize the maximum or minimum of trip duration based on the birth year of the candidates. 
 
 
 
@@ -217,7 +217,7 @@ We suggest additional visualizations for future analysis as follows:
 
 
 
-2- The Number of Trips Between Two Stations: By determining the number of people travelling between the two stations, it is possible to determine what facilities should be installed along the route for their saftey and which roads shoud be smooth and suitable for bike riding.  
+2- **The Number of Trips Between Two Stations**: By determining the number of people travelling between the two stations, it is possible to determine what facilities should be installed along the route for their saftey and which roads shoud be smooth and suitable for bike riding.  
 
 
 
