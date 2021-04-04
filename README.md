@@ -20,7 +20,7 @@ We provide a data visualization by allowing nontechnical audiences to dive in th
 
 1- [Bike Journey 1](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney1/MinimumTripduration?publish=yes): 
 
-i) **Checkout Times for Users**: We analyze the length of time that bikes are checked out for all riders. As shown in the visualization, 
+i) **Checkout Times for Users**: We analyze the length of time that bikes are checked out for all riders. 
 
 
 
@@ -33,7 +33,7 @@ i) **Checkout Times for Users**: We analyze the length of time that bikes are ch
 
 
 
-most bike riding occurs in the first 20 minutes and then experieces a downward growth until the first hour. Finally, we observe a constant behaviour.  
+As shown in the visualization, most bike riding occur in the first 20 minutes and then experiece a downward growth until the first hour. Finally, we observe a constant behaviour.  
 
 
 ii) Checkout Times by Gender: Most trip durations are for male with a large difference from female as you see below: 
