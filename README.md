@@ -54,7 +54,7 @@ iii) Trips by weekday for Each Hour: We graph the number of bike trips by weekda
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%203-%20Story%201.PNG" width="600" height="400"  />
 
 
 
