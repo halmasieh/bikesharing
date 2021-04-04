@@ -2,7 +2,7 @@
 
 ## Project Overview
 In this analysis, we explore Tableau, a data analysis and visualization tool which is more popular in today's professional world. It allows data visualization professionals to create assests that are vitually appealling and easy for a nontechnical audience or stakeholder to understand. 
-We create this visualization so clear and so helpful to give a chance to stakeholders to go directly to the results snd make decisions. 
+We create this visualization so clear and so helpful to give a chance to stakeholders to go directly to the results and make decisions. 
 
 Tableau will help us by 
  - Providing the tools to create powerful analytic dashboard
