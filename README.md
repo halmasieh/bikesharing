@@ -41,7 +41,7 @@ ii) Checkout Times by Gender: Most trip durations are for male with a large diff
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Grapg%202-Story%201.PNG" width="600" height="400"  />
 
 
 
