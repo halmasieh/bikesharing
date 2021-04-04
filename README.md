@@ -148,7 +148,7 @@ iv) Average Trip duration: By observing the following visualization,
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%204-%20story%202.PNG" width="600" height="400"  />
 
 
 
