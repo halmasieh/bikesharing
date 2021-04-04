@@ -17,7 +17,7 @@ Module: Pandas
 ## Results
 We provide a data visualization by allowing nontechnical audiences to dive in the conclusion of our analysis. This analysis includes two stories using New York city-bike-sharing data, and we discuss them separately as follows:
 
-[Bike Journey 1](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney1/MinimumTripduration?publish=yes): 
+1- [Bike Journey 1](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney1/MinimumTripduration?publish=yes): 
 
 i) Chechout Times for Users: We analyze the length of time that bikes are checked out for all riders. As shown in the visualization, 
 
@@ -95,7 +95,7 @@ v) User Trips by Gender by Weekday: We visualize the number of bike trips by gen
 This graph shows that male hav emore experience of trips on Thursdays and Fridays.
 
 
-Bike Journey 2: 
+2- [Bike Journey 2](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney2/NumberofTripsBetweenTwoStations?publish=yes): 
 
 i) Top Starting Locations: As shown in the visualization,
 
