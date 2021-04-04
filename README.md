@@ -1,4 +1,4 @@
-## bikesharing
+# BikeSharing
 
 ## Project Overview
 In this analysis, we explore Tableau, a data analysis and visualization tool which is more popular in today's professional world. It allows data visualization professionals to create assests that are vitually appealling and easy for a nontechnical audience or stakeholder to understand. 
