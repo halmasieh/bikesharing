@@ -69,7 +69,7 @@ iv) Trips by Gender (Weekday per Hour): We graph the number of bike trips by gen
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%204-Story%201.PNG" width="600" height="400"  />
 
 
 
