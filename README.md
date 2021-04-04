@@ -36,7 +36,7 @@ i) **Checkout Times for Users**: We analyze the length of time that bikes are ch
 As shown in the visualization, most bike riding occur in the first 20 minutes and then experiece a downward growth until the first hour. Finally, we observe a constant behaviour.  
 
 
-ii) Checkout Times by Gender: Most trip durations are for male with a large difference from female as you see below: 
+ii) **Checkout Times by Gender**: Most trip durations are for male with a large difference from female as you see below: 
 
 
 
@@ -49,7 +49,7 @@ ii) Checkout Times by Gender: Most trip durations are for male with a large diff
 
 
 
-iii) Trips by weekday for Each Hour: We graph the number of bike trips by weekday for each hour of the day as follows:
+iii) **Trips by weekday for Each Hour**: We graph the number of bike trips by weekday for each hour of the day as follows:
 
 
 
@@ -64,7 +64,7 @@ iii) Trips by weekday for Each Hour: We graph the number of bike trips by weekda
 
 It seems that this amount is more colorful between 6:00 Am and 8:00 Pm. 
 
-iv) Trips by Gender (Weekday per Hour): We graph the number of bike trips by gender for each hour of each day of the week as follows:
+iv) **Trips by Gender (Weekday per Hour)**: We graph the number of bike trips by gender for each hour of each day of the week as follows:
 
 
 
@@ -80,7 +80,7 @@ iv) Trips by Gender (Weekday per Hour): We graph the number of bike trips by gen
 As it is clear in the shaded section, this amount is more meaningful for male between 6:00 Am to 8:00 Pm. 
   
 
-v) User Trips by Gender by Weekday: We visualize the number of bike trips by gender for each hour for each day of the week as follows: 
+v) **User Trips by Gender by Weekday**: We visualize the number of bike trips by gender for each hour for each day of the week as follows: 
 
 
 
