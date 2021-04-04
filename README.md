@@ -123,6 +123,7 @@ i) **Top Starting Locations**: As shown in the visualization,
 The most popular stations in the city for starting bike journey are marked by larger symbols on the map.
 
 
+
 ii) **Top ending Locations**: As shown in the visualization,
 
 
@@ -137,6 +138,7 @@ ii) **Top ending Locations**: As shown in the visualization,
 
 
 The most popular stations in the city for ending bike journey are marked by larger symbols on the map.
+
 
 
 iii) **August Peak Hours**: 
@@ -155,6 +157,7 @@ iii) **August Peak Hours**:
 The peak hour for trips in August occurs at 5:00 Pm and 6:00 Pm. 
 
 
+
 iv) **Average Trip duration**: By observing the following visualization, 
 
 
@@ -168,8 +171,9 @@ iv) **Average Trip duration**: By observing the following visualization,
 
 
 
-we see that, people born in about 1890 and 1970 hav ethe highest average trip, respectively. 
+we see that, people born in about 1890 and 1970 have the highest average trip, respectively. 
   
+
 
 v) **Bike Utilization**: As shown in the circle graph,
 
