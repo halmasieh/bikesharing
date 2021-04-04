@@ -163,7 +163,7 @@ v) Bike Utilization: As shown in the circle graph,
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%205-Story%202.PNG" width="600" height="400"  />
 
 
 
