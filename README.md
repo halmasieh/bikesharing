@@ -16,7 +16,8 @@ Module: Pandas
 
 ## Results
 We provide a data visualization by allowing nontechnical audiences to dive in the conclusion of our analysis. This analysis includes two stories using New York city-bike-sharing data, and we discuss them separately as follows:
-Bike Journey 1 [Bike Journey 1](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney1/MinimumTripduration?publish=yes): 
+
+[Bike Journey 1](https://public.tableau.com/profile/homa.almasieh#!/vizhome/BikeJourney1/MinimumTripduration?publish=yes): 
 
 i) Chechout Times for Users: We analyze the length of time that bikes are checked out for all riders. As shown in the visualization, 
 
