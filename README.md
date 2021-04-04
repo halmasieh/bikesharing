@@ -85,7 +85,7 @@ v) User Trips by Gender by Weekday: We visualize the number of bike trips by gen
 
 
 
-<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%205-Story%201.PNG" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph%205-%20Story%201.PNG" width="600" height="400"  />
 
 
 
