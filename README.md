@@ -172,6 +172,7 @@ v) Bike Utilization: As shown in the circle graph,
 
 the trip duration corresponding to each Bikeid are marked with dynamic symbols. 
 
+
 ## Summary
 In fact, we want to use Tableau to create effective visualizations from the Citi Bike data, therefore the key to getting a good visualization—and, really, any good data analysis—is to start with a question. But what is the right question to ask and how do we portray the answer accurately?
 
@@ -210,12 +211,6 @@ We suggest additional visualizations for future analysis as follows:
 
 
 
-
-
-
-
-Note: The link for Tableau is available here
-[link to dashboard](LINK GOES HERE)
 
 
 
