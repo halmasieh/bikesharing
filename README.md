@@ -25,7 +25,7 @@ i) Chechout Times for Users: We analyze the length of time that bikes are checke
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/bikesharing/blob/main/Datasources/Graph1-Story1.PNG" width="600" height="400"  />
 
 
 
