@@ -12,6 +12,7 @@ Tableau will help us by
 
 ## Resources
 Software: [Jupyter Notebook](https://www.anaconda.com/products/individual), [Tableau](https://public.tableau.com/en-us/s/download/thanks) 
+
 Module: Pandas
 
 ## Results
